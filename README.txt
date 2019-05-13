@@ -22,7 +22,7 @@ Model Generation Instructions:
 Credits:  
 
 This is a semester project for Columbia University Class MECEE_4520, Data Science for Mechanical Systems.
-Thank you to Dr. Joshua Browne for guidance with this project, as well as his facilitation of our Data science knowlegde through out the course. We further would like to achknowledge the numerous guest speakers who assisted us with our project throughout the semsets, especially Alejandro Mesa and Erik Allen.
+Thank you to Dr. Joshua Browne for guidance with this project, as well as his facilitation of our Data science knowlegde through out the course. We further would like to achknowledge the numerous guest speakers who assisted us with our project throughout the semester, especially Alejandro Mesa and Erik Allen.
 
 Additional Comments:
 
