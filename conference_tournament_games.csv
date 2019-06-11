@@ -1,0 +1,343 @@
+	Date	Visitor/Neutral	PTS	Home/Neutral	PTS.1	OT	Notes
+0	2015	depaul	63	creighton	78		Big East First Round
+1	2015	seton-hall	56	marquette	78		Big East First Round
+2	2015	xavier	67	butler	61	OT	Big East Quarterfinal Round
+3	2015	georgetown	60	creighton	55		Big East Quarterfinal Round
+4	2015	villanova	84	marquette	49		Big East Quarterfinal Round
+5	2015	st-johns-ny	57	providence	74		Big East Quarterfinal Round
+6	2015	xavier	65	georgetown	63		Big East Semifinal Round
+7	2015	villanova	63	providence	61		Big East Semifinal Round
+8	2015	xavier	52	villanova	69		Big East Final Game
+9	2015	rutgers	68	minnesota	80		Big Ten First Round
+10	2015	penn-state	68	nebraska	65		Big Ten First Round
+11	2015	michigan	73	illinois	55		Big Ten Second Round
+12	2015	northwestern	56	indiana	71		Big Ten Second Round
+13	2015	penn-state	67	iowa	58		Big Ten Second Round
+14	2015	ohio-state	79	minnesota	73		Big Ten Second Round
+15	2015	maryland	75	indiana	69		Big Ten Quarterfinal Round
+16	2015	wisconsin	71	michigan	60		Big Ten Quarterfinal Round
+17	2015	ohio-state	67	michigan-state	76		Big Ten Quarterfinal Round
+18	2015	purdue	64	penn-state	59		Big Ten Quarterfinal Round
+19	2015	michigan-state	62	maryland	58		Big Ten Semifinal Round
+20	2015	wisconsin	71	purdue	51		Big Ten Semifinal Round
+21	2015	wisconsin	80	michigan-state	69	OT	Big Ten Final Game
+22	2015	georgia-tech	65	boston-college	66		ACC First Round
+23	2015	wake-forest	80	virginia-tech	81		ACC First Round
+24	2015	north-carolina	81	boston-college	63		ACC Second Round
+25	2015	florida-state	76	clemson	73		ACC Second Round
+26	2015	virginia-tech	49	miami-fl	59		ACC Second Round
+27	2015	pittsburgh	70	north-carolina-state	81		ACC Second Round
+28	2015	north-carolina-state	53	duke	77		ACC Quarterfinal Round
+29	2015	virginia	58	florida-state	44		ACC Quarterfinal Round
+30	2015	north-carolina	70	louisville	60		ACC Quarterfinal Round
+31	2015	notre-dame	70	miami-fl	63		ACC Quarterfinal Round
+32	2015	notre-dame	74	duke	64		ACC Semifinal Rouind
+33	2015	virginia	67	north-carolina	71		ACC Semifinal Rouind
+34	2015	notre-dame	90	north-carolina	82		ACC Final Game
+35	2015	mississippi-state	68	auburn	74		SEC First Round
+36	2015	south-carolina	63	missouri	54		SEC First Round
+37	2015	florida	69	alabama	61		SEC Second Round
+38	2015	texas-am	59	auburn	66		SEC Second Round
+39	2015	south-carolina	60	mississippi	58		SEC Second Round
+40	2015	vanderbilt	61	tennessee	67		SEC Second Round
+41	2015	tennessee	72	arkansas	80		SEC Quarterfinal Round
+42	2015	louisiana-state	70	auburn	73	OT	SEC Quarterfinal Round
+43	2015	kentucky	64	florida	49		SEC Quarterfinal Round
+44	2015	south-carolina	62	georgia	74		SEC Quarterfinal Round
+45	2015	georgia	49	arkansas	60		SEC Semifinal Round
+46	2015	kentucky	91	auburn	67		SEC Semifinal Round
+47	2015	kentucky	78	arkansas	63		SEC Final Game
+48	2015	southern-california	67	arizona-state	64		Pac-12 First Round
+49	2015	oregon-state	71	colorado	78		Pac-12 First Round
+50	2015	washington	69	stanford	71		Pac-12 First Round
+51	2015	washington-state	59	california	84		Pac-12 First Round
+52	2015	california	51	arizona	73		Pac-12 Quarterfinal Round
+53	2015	oregon	93	colorado	85		Pac-12 Quarterfinal Round
+54	2015	ucla	96	southern-california	70		Pac-12 Quarterfinal Round
+55	2015	utah	80	stanford	56		Pac-12 Quarterfinal Round
+56	2015	ucla	64	arizona	70		Pac-12 Semifinal Round
+57	2015	utah	64	oregon	67		Pac-12 Semifinal Round
+58	2015	oregon	52	arizona	80		Pac-12 Final Game
+59	2015	texas-christian	67	kansas-state	65		Big 12 First Round
+60	2015	texas-tech	53	texas	65		Big 12 First Round
+61	2015	west-virginia	70	baylor	80		Big 12 Quarterfinal Round
+62	2015	texas	67	iowa-state	69		Big 12 Quarterfinal Round
+63	2015	texas-christian	59	kansas	64		Big 12 Quarterfinal Round
+64	2015	oklahoma-state	49	oklahoma	64		Big 12 Quarterfinal Round
+65	2015	kansas	62	baylor	52		Big 12 Semifinal Round
+66	2015	oklahoma	65	iowa-state	67		Big 12 Semifinal Round
+67	2015	kansas	66	iowa-state	70		Big 12 Final Game
+68	2016	depaul	53	georgetown	70		First Round
+69	2016	st-johns-ny	93	marquette	101		First Round
+70	2016	butler	60	providence	74		Quarterfinal
+71	2016	creighton	73	seton-hall	81		Quarterfinal
+72	2016	georgetown	67	villanova	81		Quarterfinal
+73	2016	marquette	72	xavier	90		Quarterfinal
+74	2016	providence	68	villanova	76		Semifinal
+75	2016	seton-hall	87	xavier	83		Semifinal
+76	2016	seton-hall	69	villanova	67		Final
+77	2016	minnesota	52	illinois	85		First Round
+78	2016	rutgers	72	nebraska	89		First Round
+79	2016	illinois	68	iowa	66		Second Round
+80	2016	northwestern	70	michigan	72	OT	Second Round
+81	2016	penn-state	75	ohio-state	79		Second Round
+82	2016	nebraska	70	wisconsin	58		Second Round
+83	2016	michigan	72	indiana	69		Quarterfinal
+84	2016	nebraska	86	maryland	97		Quarterfinal
+85	2016	ohio-state	54	michigan-state	81		Quarterfinal
+86	2016	illinois	58	purdue	89		Quarterfinal
+87	2016	maryland	61	michigan-state	64		Semifinal
+88	2016	michigan	59	purdue	76		Semifinal
+89	2016	purdue	62	michigan-state	66		Final
+90	2016	boston-college	66	florida-state	88		First Round
+91	2016	wake-forest	72	north-carolina-state	75		First Round
+92	2016	georgia-tech	88	clemson	85	OT	Second Round
+93	2016	north-carolina-state	89	duke	92		Second Round
+94	2016	syracuse	71	pittsburgh	72		Second Round
+95	2016	florida-state	85	virginia-tech	96		Second Round
+96	2016	virginia-tech	82	miami-fl	88		Quarterfinal
+97	2016	pittsburgh	71	north-carolina	88		Quarterfinal
+98	2016	duke	79	notre-dame	84	OT	Quarterfinal
+99	2016	georgia-tech	52	virginia	72		Quarterfinal
+100	2016	notre-dame	47	north-carolina	78		Semifinal
+101	2016	miami-fl	68	virginia	73		Semifinal
+102	2016	virginia	57	north-carolina	61		Final
+103	2016	auburn	59	tennessee	97		First Round
+104	2016	arkansas	61	florida	68		Second Round
+105	2016	mississippi-state	69	georgia	79		Second Round
+106	2016	alabama	81	mississippi	73		Second Round
+107	2016	tennessee	67	vanderbilt	65		Second Round
+108	2016	alabama	59	kentucky	85		Quarterfinal
+109	2016	tennessee	75	louisiana-state	84		Quarterfinal
+110	2016	georgia	65	south-carolina	64		Quarterfinal
+111	2016	florida	66	texas-am	72		Quarterfinal
+112	2016	georgia	80	kentucky	93		Semifinal
+113	2016	louisiana-state	38	texas-am	71		Semifinal
+114	2016	kentucky	82	texas-am	77	OT	Final
+115	2016	washington-state	56	colorado	80		First Round
+116	2016	arizona-state	66	oregon-state	75		First Round
+117	2016	ucla	71	southern-california	95		First Round
+118	2016	stanford	68	washington	91		First Round
+119	2016	colorado	78	arizona	82		Quarterfinal
+120	2016	washington	77	oregon	83		Quarterfinal
+121	2016	oregon-state	68	california	76		Quarterfinal
+122	2016	southern-california	72	utah	80		Quarterfinal
+123	2016	arizona	89	oregon	95	OT	Semifinal
+124	2016	california	78	utah	82	OT	Semifinal
+125	2016	utah	57	oregon	88		Final
+126	2016	oklahoma-state	71	kansas-state	75		First Round
+127	2016	texas-christian	67	texas-tech	62		First Round
+128	2016	kansas-state	63	kansas	85		Quarterfinal
+129	2016	iowa-state	76	oklahoma	79		Quarterfinal
+130	2016	baylor	75	texas	61		Quarterfinal
+131	2016	texas-christian	66	west-virginia	86		Quarterfinal
+132	2016	baylor	66	kansas	70		Semifinal
+133	2016	oklahoma	67	west-virginia	69		Semifinal
+134	2016	west-virginia	71	kansas	81		Final
+135	2017	georgetown	73	st-johns-ny	74		First Round
+136	2017	depaul	64	xavier	75		First Round
+137	2017	xavier	62	butler	57		Quarterfinal
+138	2017	seton-hall	82	marquette	76		Quarterfinal
+139	2017	creighton	70	providence	58		Quarterfinal
+140	2017	st-johns-ny	67	villanova	108		Quarterfinal
+141	2017	xavier	72	creighton	75		Semifinal
+142	2017	seton-hall	53	villanova	55		Semifinal
+143	2017	creighton	60	villanova	74		Final
+144	2017	penn-state	76	nebraska	67	OT	First Round
+145	2017	rutgers	66	ohio-state	57		First Round
+146	2017	indiana	95	iowa	73		Second Round
+147	2017	illinois	55	michigan	75		Second Round
+148	2017	penn-state	51	michigan-state	78		Second Round
+149	2017	rutgers	61	northwestern	83		Second Round
+150	2017	northwestern	72	maryland	64		Quarterfinal
+151	2017	michigan-state	58	minnesota	63		Quarterfinal
+152	2017	michigan	74	purdue	70	OT	Quarterfinal
+153	2017	indiana	60	wisconsin	70		Quarterfinal
+154	2017	michigan	84	minnesota	77		Semifinal
+155	2017	northwestern	48	wisconsin	76		Semifinal
+156	2017	michigan	71	wisconsin	56		Final
+157	2017	north-carolina-state	61	clemson	75		First Round
+158	2017	pittsburgh	61	georgia-tech	59		First Round
+159	2017	boston-college	78	wake-forest	92		First Round
+160	2017	clemson	72	duke	79		Second Round
+161	2017	miami-fl	62	syracuse	57		Second Round
+162	2017	pittsburgh	63	virginia	75		Second Round
+163	2017	wake-forest	90	virginia-tech	99		Second Round
+164	2017	virginia-tech	68	florida-state	74		Quarterfinal
+165	2017	duke	81	louisville	77		Quarterfinal
+166	2017	miami-fl	53	north-carolina	78		Quarterfinal
+167	2017	virginia	58	notre-dame	71		Quarterfinal
+168	2017	notre-dame	77	florida-state	73		Semifinal
+169	2017	duke	93	north-carolina	83		Semifinal
+170	2017	duke	75	notre-dame	69		Final
+171	2017	missouri	86	auburn	83	OT	First Round
+172	2017	louisiana-state	52	mississippi-state	79		First Round
+173	2017	mississippi-state	55	alabama	75		Second Round
+174	2017	tennessee	57	georgia	59		Second Round
+175	2017	missouri	74	mississippi	86		Second Round
+176	2017	texas-am	41	vanderbilt	66		Second Round
+177	2017	mississippi	72	arkansas	73		Quarterfinal
+178	2017	vanderbilt	72	florida	62	OT	Quarterfinal
+179	2017	georgia	60	kentucky	71		Quarterfinal
+180	2017	alabama	64	south-carolina	53		Quarterfinal
+181	2017	vanderbilt	62	arkansas	76		Semifinal
+182	2017	alabama	74	kentucky	79		Semifinal
+183	2017	arkansas	65	kentucky	82		Final
+184	2017	stanford	88	arizona-state	98	OT	First Round
+185	2017	washington-state	63	colorado	73		First Round
+186	2017	washington	73	southern-california	78		First Round
+187	2017	oregon-state	62	california	67		First Round
+188	2017	colorado	78	arizona	92		Quarterfinal
+189	2017	arizona-state	57	oregon	80		Quarterfinal
+190	2017	southern-california	74	ucla	76		Quarterfinal
+191	2017	california	78	utah	75		Quarterfinal
+192	2017	ucla	75	arizona	86		Semifinal
+193	2017	california	65	oregon	73		Semifinal
+194	2017	arizona	83	oregon	80		Final
+195	2017	oklahoma	63	texas-christian	82		First Round
+196	2017	texas	61	texas-tech	52		First Round
+197	2017	kansas-state	70	baylor	64		Quarterfinal
+198	2017	oklahoma-state	83	iowa-state	92		Quarterfinal
+199	2017	texas-christian	85	kansas	82		Quarterfinal
+200	2017	texas	53	west-virginia	63		Quarterfinal
+201	2017	texas-christian	63	iowa-state	84		Semifinal
+202	2017	kansas-state	50	west-virginia	51		Semifinal
+203	2017	iowa-state	80	west-virginia	74		Final
+204	2018	st-johns-ny	88	georgetown	77		First Round
+205	2018	depaul	69	marquette	72		First Round
+206	2018	providence	72	creighton	68	OT	Quarterfinal
+207	2018	butler	75	seton-hall	74		Quarterfinal
+208	2018	marquette	70	villanova	94		Quarterfinal
+209	2018	st-johns-ny	60	xavier	88		Quarterfinal
+210	2018	butler	68	villanova	87		Semifinal
+211	2018	providence	75	xavier	72	OT	Semifinal
+212	2018	providence	66	villanova	76	OT	Final
+213	2018	illinois	87	iowa	96		First Round
+214	2018	rutgers	65	minnesota	54		First Round
+215	2018	rutgers	76	indiana	69		Second Round
+216	2018	wisconsin	59	maryland	54		Second Round
+217	2018	iowa	71	michigan	77	OT	Second Round
+218	2018	northwestern	57	penn-state	65		Second Round
+219	2018	wisconsin	60	michigan-state	63		Quarterfinal
+220	2018	michigan	77	nebraska	58		Quarterfinal
+221	2018	penn-state	69	ohio-state	68		Quarterfinal
+222	2018	rutgers	75	purdue	82		Quarterfinal
+223	2018	michigan	75	michigan-state	64		Semifinal
+224	2018	penn-state	70	purdue	78		Semifinal
+225	2018	michigan	75	purdue	66		Final
+226	2018	georgia-tech	77	boston-college	87		First Round
+227	2018	pittsburgh	64	notre-dame	67		First Round
+228	2018	wake-forest	64	syracuse	73		First Round
+229	2018	louisville	82	florida-state	74		Second Round
+230	2018	syracuse	59	north-carolina	78		Second Round
+231	2018	boston-college	91	north-carolina-state	87		Second Round
+232	2018	notre-dame	71	virginia-tech	65		Second Round
+233	2018	boston-college	82	clemson	90		Quarterfinal
+234	2018	notre-dame	70	duke	88		Quarterfinal
+235	2018	north-carolina	82	miami-fl	65		Quarterfinal
+236	2018	louisville	58	virginia	75		Quarterfinal
+237	2018	north-carolina	74	duke	69		Semifinal
+238	2018	clemson	58	virginia	64		Semifinal
+239	2018	north-carolina	63	virginia	71		Final
+240	2018	vanderbilt	62	georgia	78		First Round
+241	2018	mississippi	84	south-carolina	85		First Round
+242	2018	south-carolina	64	arkansas	69		Second Round
+243	2018	louisiana-state	77	mississippi-state	80		Second Round
+244	2018	georgia	62	missouri	60		Second Round
+245	2018	alabama	71	texas-am	70		Second Round
+246	2018	alabama	81	auburn	63		Quarterfinal
+247	2018	arkansas	80	florida	72		Quarterfinal
+248	2018	georgia	49	kentucky	62		Quarterfinal
+249	2018	mississippi-state	59	tennessee	62		Quarterfinal
+250	2018	alabama	63	kentucky	86		Semifinal
+251	2018	arkansas	66	tennessee	84		Semifinal
+252	2018	kentucky	77	tennessee	72		Final
+253	2018	arizona-state	85	colorado	97		First Round
+254	2018	washington-state	62	oregon	64	OT	First Round
+255	2018	california	58	stanford	76		First Round
+256	2018	oregon-state	69	washington	66	OT	First Round
+257	2018	colorado	67	arizona	83		Quarterfinal
+258	2018	oregon-state	48	southern-california	61		Quarterfinal
+259	2018	stanford	77	ucla	88		Quarterfinal
+260	2018	oregon	68	utah	66		Quarterfinal
+261	2018	ucla	67	arizona	78	OT	Semifinal
+262	2018	oregon	54	southern-california	74		Semifinal
+263	2018	southern-california	61	arizona	75		Final
+264	2018	oklahoma	60	oklahoma-state	71		First Round
+265	2018	iowa-state	64	texas	68		First Round
+266	2018	oklahoma-state	68	kansas	82		Quarterfinal
+267	2018	texas-christian	64	kansas-state	66	OT	Quarterfinal
+268	2018	texas	69	texas-tech	73		Quarterfinal
+269	2018	baylor	65	west-virginia	78		Quarterfinal
+270	2018	kansas-state	67	kansas	83		Semifinal
+271	2018	west-virginia	66	texas-tech	63		Semifinal
+272	2018	west-virginia	70	kansas	81		Final
+273	2019	butler	57	providence	80		First Round
+274	2019	depaul	74	st-johns-ny	82		First Round
+275	2019	st-johns-ny	54	marquette	86		Quarterfinal
+276	2019	georgetown	57	seton-hall	73		Quarterfinal
+277	2019	providence	62	villanova	73		Quarterfinal
+278	2019	creighton	61	xavier	63		Quarterfinal
+279	2019	seton-hall	81	marquette	79		Semifinal
+280	2019	xavier	67	villanova	71	OT	Semifinal
+281	2019	seton-hall	72	villanova	74		Final
+282	2019	northwestern	69	illinois	74	OT	First Round
+283	2019	nebraska	68	rutgers	61		First Round
+284	2019	illinois	62	iowa	83		Second Round
+285	2019	nebraska	69	maryland	61		Second Round
+286	2019	penn-state	72	minnesota	77	OT	Second Round
+287	2019	indiana	75	ohio-state	79		Second Round
+288	2019	iowa	53	michigan	74		Quarterfinal
+289	2019	ohio-state	70	michigan-state	77		Quarterfinal
+290	2019	minnesota	75	purdue	73		Quarterfinal
+291	2019	nebraska	62	wisconsin	66		Quarterfinal
+292	2019	minnesota	49	michigan	76		Semifinal
+293	2019	wisconsin	55	michigan-state	67		Semifinal
+294	2019	michigan	60	michigan-state	65		Final
+295	2019	pittsburgh	80	boston-college	70		First Round
+296	2019	notre-dame	78	georgia-tech	71		First Round
+297	2019	wake-forest	71	miami-fl	79		First Round
+298	2019	notre-dame	53	louisville	75		Second Round
+299	2019	clemson	58	north-carolina-state	59		Second Round
+300	2019	pittsburgh	59	syracuse	73		Second Round
+301	2019	miami-fl	56	virginia-tech	71		Second Round
+302	2019	syracuse	72	duke	84		Quarterfinal
+303	2019	virginia-tech	63	florida-state	65	OT	Quarterfinal
+304	2019	louisville	70	north-carolina	83		Quarterfinal
+305	2019	north-carolina-state	56	virginia	76		Quarterfinal
+306	2019	duke	74	north-carolina	73		Semifinal
+307	2019	florida-state	69	virginia	59		Semifinal
+308	2019	florida-state	63	duke	73		Final
+309	2019	georgia	61	missouri	71		First Round
+310	2019	vanderbilt	52	texas-am	69		First Round
+311	2019	missouri	71	auburn	81		Second Round
+312	2019	arkansas	50	florida	66		Second Round
+313	2019	alabama	62	mississippi	57		Second Round
+314	2019	texas-am	54	mississippi-state	80		Second Round
+315	2019	alabama	55	kentucky	73		Quarterfinal
+316	2019	florida	76	louisiana-state	73		Quarterfinal
+317	2019	auburn	73	south-carolina	64		Quarterfinal
+318	2019	mississippi-state	76	tennessee	83		Quarterfinal
+319	2019	florida	62	auburn	65		Semifinal
+320	2019	tennessee	82	kentucky	78		Semifinal
+321	2019	auburn	84	tennessee	64		Final
+322	2019	california	51	colorado	56		First Round
+323	2019	washington-state	51	oregon	84		First Round
+324	2019	arizona	65	southern-california	78		First Round
+325	2019	stanford	72	ucla	79		First Round
+326	2019	ucla	72	arizona-state	83		Quarterfinal
+327	2019	colorado	73	oregon-state	58		Quarterfinal
+328	2019	oregon	66	utah	54		Quarterfinal
+329	2019	southern-california	75	washington	78		Quarterfinal
+330	2019	oregon	79	arizona-state	75	OT	Semifinal
+331	2019	colorado	61	washington	66		Semifinal
+332	2019	oregon	68	washington	48		Final
+333	2019	west-virginia	72	oklahoma	71		First Round
+334	2019	oklahoma-state	70	texas-christian	73		First Round
+335	2019	iowa-state	83	baylor	66		Quarterfinal
+336	2019	texas	57	kansas	65		Quarterfinal
+337	2019	texas-christian	61	kansas-state	70		Quarterfinal
+338	2019	west-virginia	79	texas-tech	74		Quarterfinal
+339	2019	west-virginia	74	kansas	88		Semifinal
+340	2019	iowa-state	63	kansas-state	59		Semifinal
+341	2019	iowa-state	78	kansas	66		Final
