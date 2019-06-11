@@ -13,6 +13,15 @@ Files Included:
                 GenerateOdds.ipynb
                 Data_Science_Final_Paper.pdf
                 
+                The following files are derivatives of the operative files listed above:
+                  2019_games_predicted.csv
+                  2019_tournament_o2odds.csv
+                  Big12.html
+                  BigEast.html
+                  conference_tournament_games.csv
+                  PowerSixBball.csv
+                  SeasonStatistics.csv
+                  
 Model Generation Instructions:
 
                 First run the PowerSixTournament_data_collection.ipynb
