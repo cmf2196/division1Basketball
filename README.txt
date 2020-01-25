@@ -37,3 +37,5 @@ Additional Comments:
 
 This model is based off of season long data. Therefore, predictions are based off of the teams' general body of work and do consider game specific performances. When training the model, only conference tournament games are considered; thus, this model should not be applied to regular season games
 
+Note:
+This project is being continued, so changes to the files are underway. 1/24/22
